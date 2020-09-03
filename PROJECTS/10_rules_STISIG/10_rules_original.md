@@ -1,6 +1,7 @@
 # Ten Simple Rules for Helping Newcomers Become Contributors to Open Projects
 
 Dan Sholler, Igor Steinmacher, Denae Ford, Mara Averick, Mike Hoye, and Greg Wilson
+Original located: https://github.com/gvwilson/10-lesson
 
 These authors contributed equally to this work.
 
